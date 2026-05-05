@@ -3,8 +3,8 @@ Pós Graduação -> E commerce Brazil
 
 **Inicalmente os tratamentos e verificações dos dados foram feitas com python (Google Colab), onde foram feitas os seguintes passos:**
 
-1 - Importação das Libs
-2 - Importação das Bases
+1 - Importação das Libs 
+2 - Importação das Bases  
 3 - Crianção da tabela calendário
 4 - Visualização das tabelas para identificação da estrutura e inicio de planejamento
 5 - Verificação de duplicidades desnecessarias ("boleto", "bolet")
